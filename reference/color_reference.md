@@ -1,9 +1,11 @@
 ## Arranger
 
 Add Modulation Button Color
+
 ![Add Modulation Button Color](screenshots/arranger/Add Modulation Button Color.png)
 
 Audio connection in modular environment
+
 ![Audio connection in modular environment](screenshots/arranger/Audio connection in modular environment.png)
 
 ## Window
