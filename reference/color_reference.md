@@ -9,5 +9,7 @@ Audio connection in modular environment
 ## Window
 
 `"On": "#a2f0d3",` widely used, sets many buttons like play
+
 `"Pressed On": "#63d297",` -- same as above but when mouse is clicked and held. Makes sense to use a darker variant of "On"
+
 `"Timeline Background Pattern": "#00000014",` -- darkens black keys on the piano roll
