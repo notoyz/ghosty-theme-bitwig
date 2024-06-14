@@ -1,6 +1,6 @@
 # ghosty-theme-bitwig
 
-A dark pastel theme for use with Berikai/bitwig-theme-editor
+A dark pastel theme for use with [Berikai/bitwig-theme-editor](https://github.com/Berikai/bitwig-theme-editor)
 
 ## Ghosty Dark
 ![dark](extra/screenshots/dark.png)
