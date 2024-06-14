@@ -34,5 +34,7 @@ To get the controller highlight area to show as one of the theme colors, assign 
 
 ### TODO
 
-Not all of the colors are properly assigned, the naming of the values are pretty difficult to decipher and many are in places that I may not have thought to use yet. 
+- Not all of the colors are properly assigned, the naming of the values are pretty difficult to decipher and many are in places that I may not have thought to use yet. 
 If you find an out of place color or colors that just don't look right and would like me to fix it, make an issue with a screenshot and an quick explanation of how to get there, preferably with midtones, black level and gridlines all at 50 because it makes finding the color codes much easier.
+- Recolor more icons: for some reason some of the icons seem to be rendered from .svg files and others are raster images of the same icons.
+- Match colors in the Grid
