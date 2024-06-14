@@ -25,3 +25,14 @@ I've also changed the color of some (but not all) of the icons used in Bitwig's 
 ```
 '/Applications/Bitwig Studio.app/Contents/Resources/icons/browser'
 ```
+
+### Tips
+
+To get the controller highlight area to show as one of the theme colors, assign one of the included colors from the Ghosty color palette to it in Settings > Controllers
+
+![controller-settings](extra/screenshots/controller.png)
+
+### TODO
+
+Not all of the colors are properly assigned, the naming of the values are pretty difficult to decipher and many are in places that I may not have thought to use yet. 
+If you find an out of place color or colors that just don't look right and would like me to fix it, make an issue with a screenshot and an quick explanation of how to get there, preferably with midtones, black level and gridlines all at 50 because it makes finding the color codes much easier.
