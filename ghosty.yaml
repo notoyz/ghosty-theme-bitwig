@@ -217,9 +217,12 @@ window:
   Mouse Over Toggle Icon: "#bababa"
   Normal Inverted Toggle Icon: "#00000050"
   Normal Toggle Icon: "#a0a0a0"
+  # top right notification area (when loading projects, plugins, etc.)
   Notification Background: "#d0d0d0"
-  Notification Error: "#e5102b"
-  Notification Normal: "#00888c"
+  # title text in notification area when error occurs
+  Notification Error: "#ac0d41"
+  # title text in notification area
+  Notification Normal: "#30a265"
   Number field bar background: "#a47bcd"
   "On": "#a2f0d3"
   On (subtle): "#d4c0fe80"
