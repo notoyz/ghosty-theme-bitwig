@@ -261,7 +261,9 @@ window:
   Subtle Dark Text: "#3a3a3a"
   Subtle Light Text: "#ffffff78"
   Subtler Light Text: "#ffffff3c"
+  # squares in the grid
   The Grid (background): "#202020"
+  # lines between squares in the grid
   The Grid (stroke): "#101010"
   Timeline edit tool chooser background: "#2a2a2a"
   Tooltip Background: "#303030"
