@@ -13,7 +13,8 @@ arranger:
   # automation line in edit window when in additive or multiply mode
   Clip Modulation Color: "#f3b583"
   Compressed Audio Port in modular environment: "#ff8000"
-  Current Atom Value Color: "#005270"
+  # automation line when no automation is active (no nodes)
+  Current Atom Value Color: "#703ea3"
   # unused portion of the arranger
   Dark Timeline Background: "#303030"
   # background of the timeline on top of the arranger
