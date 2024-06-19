@@ -150,7 +150,7 @@ window:
   Hitech background: "#2a2a2a"
   # transport text color, as well as some text on the right-side panel
   Hitech on: "#d4c0fe"
-  # seemingly affects all major background spaces such as background of the tracks / scenes, background of the device pane and background of browsers
+  # seemingly affects all major background spaces such as background of the tracks/scenes, background of the device pane and background of browsers
   Hole (dark): "#202020"
   # smaller background elements
   Hole (light): "#3a3a3a"
